@@ -38,10 +38,6 @@ Researched phishing attacks and prepared a case study along with a prevention ch
 
 ---
 
-## Links  
 
-- 🔗 **Digital Literacy Quiz:** https://forms.gle/cYk4W38z9n6ydS978  
-
----
 
 *Submitted as part of CSE0001 – Digital Literacy | VIT Bhopal University*
